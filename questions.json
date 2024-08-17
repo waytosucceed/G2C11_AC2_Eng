@@ -1,0 +1,387 @@
+[
+    {
+      "questionNo": "Q1.",
+      "question": "Hear the word and count the syllables.<img src='./images/1.jpg' alt='goldFish' width='80px' height='60px'>",
+      "Q_sound":"./sound/cat.mp3",
+      "options": [
+        {
+          "text": "1",
+          "audio": ""
+        },
+        {
+          "text": "2",
+          "audio": ""
+        },
+        {
+          "text": "3",
+          "audio": ""
+        }
+      ],
+      "correct": 0
+    },
+    {
+        "questionNo": "Q2.",
+        "question": " Hear the word and choose how many syllables are in the word.<img src='./images/2.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/butterfly.mp3",
+        "options": [
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "3",
+            "audio": ""
+          },
+          {
+            "text": "4",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q3.",
+        "question": " Hear the word and choose how many syllables are in the word.<img src='./images/3.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/banana.mp3",
+        "options": [
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "3",
+            "audio": ""
+          },
+          {
+            "text": "4",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q4.",
+        "question": " Hear the word and choose the correct spelling.<img src='./images/4.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/sunrise.mp3",
+        "options": [
+          {
+            "text": "Sunrase",
+            "audio": ""
+          },
+          {
+            "text": "Sunreese",
+            "audio": ""
+          },
+          {
+            "text": "Sunrise",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },{
+        "questionNo": "Q5.",
+        "question": "Hear the word and choose the correct spelling:<img src='./images/5.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/boat.mp3",
+        "options": [
+          {
+            "text": "Bot",
+            "audio": ""
+          },
+          {
+            "text": "Bota",
+            "audio": ""
+          },
+          {
+            "text": "Boat",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q6.",
+        "question": "Hear the sound and find out which word has 2 syllables.",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Dog",
+            "audio": "./sound/dog.mp3"
+          },
+          {
+            "text": "Cat",
+            "audio": "./sound/cat.mp3"
+          },
+          {
+            "text": "Rabbit",
+            "audio": "./sound/rabbit.mp3"
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q7.",
+        "question": "Hear the word and choose how many syllables are in the word.<img src='./images/6.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/rainbow.mp3",
+        "options": [
+          {
+            "text": "1",
+            "audio": ""
+          },
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "3",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q8.",
+        "question": " The word \"apple\" has ____ syllables. ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "1",
+            "audio": ""
+          },
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "3",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q9.",
+        "question": "Hear the word and choose how many syllables are in the word.<img src='./images/4.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/sunny.mp3",
+        "options": [
+          {
+            "text": "sunni",
+            "audio": ""
+          },
+          {
+            "text": "sunny",
+            "audio": ""
+          },
+          {
+            "text": "sunnw",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q10.",
+        "question": "Which word has the most syllables?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Cat",
+            "audio": ""
+          },
+          {
+            "text": "treehouse",
+            "audio": ""
+          },
+          {
+            "text": "elephant",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q11.",
+        "question": "The word \"happy\" has 3 syllables.",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "True",
+            "audio": ""
+          },
+          {
+            "text": "False",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q12.",
+        "question": " Fill in the blank: The word \"Hat\" has ____ syllables.",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "1",
+            "audio": ""
+          },
+          {
+            "text": "2",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q13.",
+        "question": "Fill in the blank: The word \"pencil\" has ____ syllables.",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "4",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },{
+        "questionNo": "Q14.",
+        "question": "Hear the word and choose how many syllables are in the word.<img src='./images/7.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/happy.mp3",
+        "options": [
+          {
+            "text": "happy",
+            "audio": ""
+          },
+          {
+            "text": "happee",
+            "audio": ""
+          },
+          {
+            "text": "happw",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q15.",
+        "question": "How many syllables are in the word \"di-no-saur\"?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "3",
+            "audio": ""
+          },
+          {
+            "text": "4",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      }
+      ,
+      {
+        "questionNo": "Q16.",
+        "question": "  All words have the same number of syllables.",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "True",
+            "audio": ""
+          },
+          {
+            "text": "False",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      
+      {
+        "questionNo": "Q17.",
+        "question": "Which word has 3 syllables?",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Cat",
+            "audio": ""
+          },
+          {
+            "text": "Rabbit",
+            "audio": ""
+          },
+          {
+            "text": "Butterfly",
+            "audio": ""
+          }
+        ],
+        "correct": 2
+      },
+      {
+        "questionNo": "Q18.",
+        "question": "  How many syllables are in the word \"elephant\"? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "2",
+            "audio": ""
+          },
+          {
+            "text": "3",
+            "audio": ""
+          },
+          {
+            "text": "4",
+            "audio": ""
+          }
+        ],
+        "correct": 1
+      },
+      {
+        "questionNo": "Q19.",
+        "question": "Hear the word and choose how many syllables are in the word.<img src='./images/8.jpg' alt='goldFish' width='80px' height='60px'>",
+        "Q_sound":"./sound/rain.mp3",
+        "options": [
+          {
+            "text": "Rain",
+            "audio": ""
+          },
+          {
+            "text": "rane",
+            "audio": ""
+          },
+          {
+            "text": "rine",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      },
+      {
+        "questionNo": "Q20.",
+        "question": "Which word has only one syllable? ",
+        "Q_sound":"",
+        "options": [
+          {
+            "text": "Pie",
+            "audio": ""
+          },
+          {
+            "text": "Puppy",
+            "audio": ""
+          },
+          {
+            "text": "Kitten",
+            "audio": ""
+          }
+        ],
+        "correct": 0
+      }
+  ]
+  
